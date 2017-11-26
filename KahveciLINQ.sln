@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KahveciLINQ", "KahveciLINQ\KahveciLINQ.csproj", "{57C289BC-37BA-4ADC-84A0-73C2709784DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{B7DE7B30-438F-4985-AC85-8B8C86B43065}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainEntity", "DomainEntity\DomainEntity.csproj", "{8FD7E03A-DABB-4D5C-A66E-046528315D31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57C289BC-37BA-4ADC-84A0-73C2709784DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C289BC-37BA-4ADC-84A0-73C2709784DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C289BC-37BA-4ADC-84A0-73C2709784DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C289BC-37BA-4ADC-84A0-73C2709784DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7DE7B30-438F-4985-AC85-8B8C86B43065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DE7B30-438F-4985-AC85-8B8C86B43065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7DE7B30-438F-4985-AC85-8B8C86B43065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DE7B30-438F-4985-AC85-8B8C86B43065}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FD7E03A-DABB-4D5C-A66E-046528315D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD7E03A-DABB-4D5C-A66E-046528315D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD7E03A-DABB-4D5C-A66E-046528315D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD7E03A-DABB-4D5C-A66E-046528315D31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

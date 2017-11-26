@@ -1,0 +1,30 @@
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\DomainEntity\bin\Debug\DomainEntity.dll.config
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\DomainEntity\bin\Debug\DomainEntity.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\DomainEntity\bin\Debug\DomainEntity.pdb
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\DomainEntity\bin\Debug\EntityFramework.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\DomainEntity\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\DomainEntity\bin\Debug\EntityFramework.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\DomainEntity\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\DomainEntity\obj\Debug\DomainEntity.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\DomainEntity\obj\Debug\DomainEntity.pdb
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\DomainEntity\obj\Debug\DomainEntity.csprojResolveAssemblyReference.cache
+C:\Users\nuuklu\Downloads\KahveciLINQYeniBastanHocanınYaptığı\KahveciLINQ\DomainEntity\bin\Debug\DomainEntity.dll.config
+C:\Users\nuuklu\Downloads\KahveciLINQYeniBastanHocanınYaptığı\KahveciLINQ\DomainEntity\bin\Debug\DomainEntity.dll
+C:\Users\nuuklu\Downloads\KahveciLINQYeniBastanHocanınYaptığı\KahveciLINQ\DomainEntity\bin\Debug\DomainEntity.pdb
+C:\Users\nuuklu\Downloads\KahveciLINQYeniBastanHocanınYaptığı\KahveciLINQ\DomainEntity\bin\Debug\EntityFramework.dll
+C:\Users\nuuklu\Downloads\KahveciLINQYeniBastanHocanınYaptığı\KahveciLINQ\DomainEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nuuklu\Downloads\KahveciLINQYeniBastanHocanınYaptığı\KahveciLINQ\DomainEntity\bin\Debug\EntityFramework.xml
+C:\Users\nuuklu\Downloads\KahveciLINQYeniBastanHocanınYaptığı\KahveciLINQ\DomainEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nuuklu\Downloads\KahveciLINQYeniBastanHocanınYaptığı\KahveciLINQ\DomainEntity\obj\Debug\DomainEntity.csprojResolveAssemblyReference.cache
+C:\Users\nuuklu\Downloads\KahveciLINQYeniBastanHocanınYaptığı\KahveciLINQ\DomainEntity\obj\Debug\DomainEntity.dll
+C:\Users\nuuklu\Downloads\KahveciLINQYeniBastanHocanınYaptığı\KahveciLINQ\DomainEntity\obj\Debug\DomainEntity.pdb
+C:\Users\nuuklu\Downloads\1311KahveciLINQYeniBastanHocanınYaptığı (1)\KahveciLINQYeniBastanHocanınYaptığı\KahveciLINQ\DomainEntity\bin\Debug\DomainEntity.dll.config
+C:\Users\nuuklu\Downloads\1311KahveciLINQYeniBastanHocanınYaptığı (1)\KahveciLINQYeniBastanHocanınYaptığı\KahveciLINQ\DomainEntity\bin\Debug\DomainEntity.dll
+C:\Users\nuuklu\Downloads\1311KahveciLINQYeniBastanHocanınYaptığı (1)\KahveciLINQYeniBastanHocanınYaptığı\KahveciLINQ\DomainEntity\bin\Debug\DomainEntity.pdb
+C:\Users\nuuklu\Downloads\1311KahveciLINQYeniBastanHocanınYaptığı (1)\KahveciLINQYeniBastanHocanınYaptığı\KahveciLINQ\DomainEntity\bin\Debug\EntityFramework.dll
+C:\Users\nuuklu\Downloads\1311KahveciLINQYeniBastanHocanınYaptığı (1)\KahveciLINQYeniBastanHocanınYaptığı\KahveciLINQ\DomainEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nuuklu\Downloads\1311KahveciLINQYeniBastanHocanınYaptığı (1)\KahveciLINQYeniBastanHocanınYaptığı\KahveciLINQ\DomainEntity\bin\Debug\EntityFramework.xml
+C:\Users\nuuklu\Downloads\1311KahveciLINQYeniBastanHocanınYaptığı (1)\KahveciLINQYeniBastanHocanınYaptığı\KahveciLINQ\DomainEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nuuklu\Downloads\1311KahveciLINQYeniBastanHocanınYaptığı (1)\KahveciLINQYeniBastanHocanınYaptığı\KahveciLINQ\DomainEntity\obj\Debug\DomainEntity.csprojResolveAssemblyReference.cache
+C:\Users\nuuklu\Downloads\1311KahveciLINQYeniBastanHocanınYaptığı (1)\KahveciLINQYeniBastanHocanınYaptığı\KahveciLINQ\DomainEntity\obj\Debug\DomainEntity.dll
+C:\Users\nuuklu\Downloads\1311KahveciLINQYeniBastanHocanınYaptığı (1)\KahveciLINQYeniBastanHocanınYaptığı\KahveciLINQ\DomainEntity\obj\Debug\DomainEntity.pdb
